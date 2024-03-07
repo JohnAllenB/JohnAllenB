@@ -38,6 +38,10 @@ Throughout my college career I have been working as a tech specilist at Lockheed
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png" alt="LinkedIn" width="48" height="48">
 </a>
+<a href="https://github.com/JohnAllenB" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/fluidicon.png" alt="GitHub" width="48" height="48">
+</a>
+
 
 
 
