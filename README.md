@@ -1,9 +1,9 @@
 Hello! My name is John Allen Blaxton
 -----------------------------
 IT Major with a concentration in HCI/UX at the University of North Alabama
-
+-----------------------------
 Throughout my college career I have been working as a tech specilist at Lockheed Martin. My goal is to be hired on fulltime work as a Linux admin after I graduate.
-
+-----------------------------
 * 🌍  I'm located in Alabama
 * ✉️  Contact: [ja.blaxton@gmail.com] / [jblaxton@una.edu]
 * 🧠  Along with studying web development skills I am always striving to further my knowledge on Linux
