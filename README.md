@@ -1,5 +1,3 @@
-### Intro
-
 Hello! My name is John Allen Blaxton
 
 IT Major with a concentration in HCI/UX at the University of North Alabama
@@ -32,7 +30,7 @@ Throughout my college career I have been working as a tech specilist at Lockheed
 
 ### Socials
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-BG7tqxdQv3RBkdHxr+slXs5ZGI8KRvRykBhdigYYDlSt+oU9wANINezAPpIcDtk/" crossorigin="anonymous">
+
 
 
 
