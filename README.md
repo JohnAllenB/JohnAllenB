@@ -24,7 +24,7 @@ Throughout my college career I have been working as a tech specilist at Lockheed
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="linux-icon.png" alt="Linux Icon">
   </a>
 </p>
